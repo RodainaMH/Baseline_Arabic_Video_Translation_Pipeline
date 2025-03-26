@@ -21,3 +21,5 @@ This repository contains the code and methodology for an AI-powered Arabic video
 To install dependencies, run:
 ```sh
 pip install -r requirements.txt
+
+##Usage
